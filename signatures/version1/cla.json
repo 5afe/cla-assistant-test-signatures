@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "DmitryBespalov",
+      "id": 284056,
+      "comment_id": 1339193943,
+      "created_at": "2022-12-06T11:41:02Z",
+      "repoId": 574924959,
+      "pullRequestNo": 1
+    }
+  ]
 }
